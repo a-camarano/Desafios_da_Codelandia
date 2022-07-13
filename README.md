@@ -8,10 +8,10 @@ Os desafios são para nível júnior, mas com o tempo eles vão se aprofundando.
 
 | Nº| Desafio                | Repositório                   | Final                         |
 |---|----------------------- | ----------------------------- | ----------------------------- |
-| 1 | Blog da Codelândia     | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%201%20-%20Blog%20da%20Codel%C3%A2ndia">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 2 | JordanShoes            | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%202%20-%20JordanShoes">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 3 | One Page               | <a href="https://github.com/eaecamarano/Desafios_da_Codelandia/tree/main/Desafio%203%20-%20One%20Page">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
-| 4 | Login                  | <a href="https://github.com/a-camarano/Desafios_da_Codelandia/tree/main/Desafio%204%20-%20Login%20Codel%C3%A2ndia">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 1 | Blog da Codelândia     | <a href="https://github.com/a-camarano/Desafios_da_Codelandia/tree/Desafio1">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 2 | JordanShoes            | <a href="https://github.com/a-camarano/Desafios_da_Codelandia/tree/Desafio2">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 3 | One Page               | <a href="https://github.com/a-camarano/Desafios_da_Codelandia/tree/Desafio3">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
+| 4 | Login                  | <a href="https://github.com/a-camarano/Desafios_da_Codelandia/tree/Desafio4">Clique aqui 🗃</a> | <a href="">Clique aqui ✅</a> |
 | 5 | Studio Ghibli          | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 6 | Loki                   | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
 | 7 | Valorant               | <a href="">Em breve 🚧</a> | <a href="">Em breve 🚧</a> |
