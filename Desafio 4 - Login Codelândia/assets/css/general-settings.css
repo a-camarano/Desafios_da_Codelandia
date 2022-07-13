@@ -1,0 +1,32 @@
+* {
+    /*Reset*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box; /*Largura e altura incluem o tamanho do padding e border*/
+    user-select: none; /*Bloquear a seleção do texto*/
+    text-decoration: none; /*Tirar a decoração do texto*/
+    list-style: none; /*Tirar os marcadores de itens*/
+}
+
+html {
+    scroll-behavior: smooth; /*Barra de rolagem suavizada*/
+}
+
+/*Variáveis*/
+:root {
+    /*Fontes*/
+    --Merriweather: 'Merriweather', serif;
+    --Lato: 'Lato', sans-serif;
+    /*Background*/
+    --bgLeft: #F7FAFC;
+    /*Botão*/
+    --green: #04C35C;
+    /*Texto*/
+    --white: #FFFFFF;
+    --purple: #2B6CB0;
+    /*Texto e Botão*/
+    --gray: #1A202C; 
+    /*Input*/
+    --border: #E8E8E8;
+}

@@ -1,0 +1,41 @@
+* {
+    /*Reset*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box; /*Largura e altura incluem o tamanho do padding e border*/
+    user-select: none; /*Bloquear a seleção do texto*/
+    text-decoration: none; /*Tirar a decoração do texto*/
+    list-style: none; /*Tirar os marcadores de itens*/
+}
+
+html {
+    scroll-behavior: smooth; /*Barra de rolagem suavizada*/
+}
+
+/*Variáveis*/
+:root {
+    /*Fonte*/
+    --Montserrat: 'Montserrat', sans-serif;
+    /*Cor de fundo*/
+    --bgHeader1: #181818;
+    --bgHeader2: #F9F9F9;
+    --bgHeader3: #f1f1f1;
+    --bgSite: #f6f6f6;
+    --bgCard: #ebe9ea;
+    /*Cores para conteúdo*/
+    --white: #ffffff;
+    --black: #000000;
+    --title: #181818;
+    --text: #474747;
+    /*Text shadow*/
+    --textshadow: #00000030;
+    /*Box shadow*/
+    --boxshadow: #00000020;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
