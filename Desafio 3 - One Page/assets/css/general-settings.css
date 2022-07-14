@@ -1,0 +1,44 @@
+* {
+    /*Reset*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box; /*Largura e altura incluem o tamanho do padding e border*/
+    user-select: none; /*Bloquear a seleção do texto*/
+    text-decoration: none; /*Tirar a decoração do texto*/
+    list-style: none; /*Tirar os marcadores de itens*/
+}
+
+html {
+    scroll-behavior: smooth; /*Barra de rolagem suavizada*/
+}
+
+/*Variáveis*/
+:root {
+    /*Fontes*/
+    --Merriweather: 'Merriweather', serif;
+    --Lato: 'Lato', sans-serif;
+    /*Background*/
+    --bgHeader: #ada7ff;
+    --bgHeaderMenu: #908be0;
+    --bgSiteHome: #d7d4ff;
+    --bgSiteMain: #F9F9F9;
+    --bgFooter: #8b86d3;
+    /*Botão*/
+    --buttonColor: #6c63ff;
+    /*Cores*/
+    --white: #ffffff;
+    /*Titulo*/
+    --title: #2b2b2b;
+    /*Texto*/
+    --text: #555555;
+    /*Cards*/
+    --card1: #FF6363;
+    --card2: #63ECFF;
+    --card3: #F363FF;
+    --card4: #63FF73;
+    --card5: #FFDD63;
+    --card6: #6663FF;
+    --card7: #e99649;
+    --card8: #cce949;
+}

@@ -1,0 +1,35 @@
+* {
+    /*Reset*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box; /*Largura e altura incluem o tamanho do padding e border*/
+    user-select: none; /*Bloquear a seleção do texto*/
+    text-decoration: none; /*Tirar a decoração do texto*/
+    list-style: none; /*Tirar os marcadores de itens*/
+}
+
+html {
+    scroll-behavior: smooth; /*Barra de rolagem suavizada*/
+}
+
+/*Variáveis*/
+:root {
+    /*Fontes*/
+    --LexendDeca: 'Lexend Deca', sans-serif;
+    --Inter: 'Inter', sans-serif;
+    /*Linear Gradient*/
+    --blue: #3EA1DB;
+    --bluedark: #574AE8;
+    /*Cor de fundo do elemento main (principal)*/
+    --background-main: #F3F5F7;
+    /*Cores para o conteúdo*/
+    --title: #1A202C;
+    --text: #5e5e5e;
+    --data: #a8a8a8;
+    --white: #FFFFFF;
+    /*Sombras utilizadas no box das notícias*/
+    --box-shadow: #13131F0D;
+    /*Cor de fundo para o input*/
+    --input: #FFFFFF50;
+}
