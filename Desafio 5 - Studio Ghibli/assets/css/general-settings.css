@@ -1,0 +1,24 @@
+* {
+    /*Reset*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box; /*Largura e altura incluem o tamanho do padding e border*/
+    user-select: none; /*Bloquear a seleção do texto*/
+    text-decoration: none; /*Tirar a decoração do texto*/
+    list-style: none; /*Tirar os marcadores de itens*/
+}
+
+html {
+    scroll-behavior: smooth; /*Barra de rolagem suavizada*/
+}
+
+/*Variáveis*/
+:root {
+   /*Fonte*/
+   --Poppins: 'Poppins', sans-serif;
+   /*Cores*/
+   --white: #FFFFFF;
+   --btn: #658E76;
+   --shadow: #00000060;
+}
